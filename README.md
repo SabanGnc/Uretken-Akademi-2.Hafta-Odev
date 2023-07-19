@@ -1,4 +1,4 @@
-# Uretken-Akademi-2.Hafta-Odev
+# Uretken Akademi 2.Hafta Odev
 
 ![Soft Pastel Sade Temiz Takvimli Masaüstü Düzenleyici (3)](https://github.com/SabanGnc/Uretken-Akademi-2.Hafta-Odev/assets/139702707/01473139-ae5d-4930-b092-664205a53a6b)
 
