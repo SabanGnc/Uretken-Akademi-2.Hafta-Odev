@@ -68,5 +68,6 @@ void Start()
 <h3 align="center">Connect with me:</h3> 
 <p align="center">
   📧 Email: sabangenc95@gmail.com<br>
-  💬 Discord: @vespagnc<br>
+  💬 Discord: @vexel.dll<br>
 </p>
+
